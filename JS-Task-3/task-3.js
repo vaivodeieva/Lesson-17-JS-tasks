@@ -10,22 +10,17 @@ const number = 16;
 
 if (((number % 2) === 0) && ((number % 3) === 0)) {
     console.log('Fizz Bazz');
-}
-
-
-else if ((number % 2) === 0) {
+    
+} else if ((number % 2) === 0) {
    console.log('Fizz');
-} 
-
-
-else if ((number % 3) === 0) {
+} else if ((number % 3) === 0) {
     console.log('Bazz');
 
-}  else {
+} else {
     console.log(number);
 }
 
 
-///:)
+
 
 
