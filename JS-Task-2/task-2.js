@@ -15,7 +15,7 @@ console.log('Your age is somewhere between 19 and 30 years');
     console.log('Your age is somewhere between 31 and 40 years');
 } else if (age > 40 && age < 51) {
     console.log('Your age is somewhere between 41 and 50 years');
-} else { (age > 50)
+} else { 
     console.log('Your age is 51 yrs or more');
 }
   
